@@ -6,11 +6,14 @@
 
  <div>
   <a href="https://github.com/pedrolongaresi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolongaresi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolongaresi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolongaresi&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolongaresi&layout=compact&langs_count=10&theme=blue-green"/>
 </div>
  
+ ##
 <div style="display: center"  align="center"><br>
+ 
+  ### Tecnologias Conhecidas
   <img align="center" alt="Pedro-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Pedro-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Pedro-Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
@@ -23,15 +26,14 @@
   
  ##
 
-
 <div style="display: center" align="center"> 
 
- 
   ### Meios de Contato:
   <a  href="https://www.instagram.com/longaresii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:malasarte32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedrolongaresi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="pedro_longaresi@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  
   ##
  
