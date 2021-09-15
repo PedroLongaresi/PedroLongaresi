@@ -24,6 +24,7 @@
   <img align="center" alt="Pedro-Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img align="center" alt="Pedro-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Pedro-SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+  <img align="center" alt="Pedro-Java" src="https://img.shields.io/badge/Java-887E80?style=for-the-badge&logo=Java&logoColor=black">
 
 </div>
   
